@@ -1,6 +1,6 @@
 # AI QBR Copilot (Monday.com Home Assignment)
 
-**Live Demo:** 👉 PASTE STREAMLIT APP LINK HERE
+**Live Demo:** [Link](https://ai-qbr-demo-pgyako2lbesql3dk4hzpzb.streamlit.app/)
 
 This project is a proof-of-concept AI copilot that generates **Quarterly Business Review (QBR)** summaries for Customer Success Managers, based on structured account data and optional external research.
 
