@@ -5,4 +5,4 @@ langchain-core
 pydantic
 streamlit
 python-dotenv
-
+openpyxl
